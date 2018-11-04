@@ -1,0 +1,12 @@
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/Application.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/controllers/IngredientByIdConverter.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/config/WebConfig.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/repositories/OrderRepository.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/controllers/DesignTacoController.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/repositories/TacoRepository.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/controllers/OrderController.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/models/Ingredient.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/models/Order.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/repositories/IngredientRepository.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/repositories/UserRepository.java
+/home/garry/IdeaProjects/TechnoStreamProject/nikakola/src/main/java/org/nikakola/models/Taco.java
